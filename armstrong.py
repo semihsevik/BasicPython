@@ -34,20 +34,5 @@ while True:
     else:
         print(f"{num} bir Armstrong sayısı değildir !")
 
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
+        
+        
