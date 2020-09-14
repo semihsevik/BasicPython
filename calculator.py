@@ -29,21 +29,3 @@ else:
     print("Lütfen geçerli bir işlem seçiniz.")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
