@@ -1,5 +1,5 @@
 import numpy as np
-print()
+
 row = int(input("Satır sayısı: "))
 col = int(input("Sütun sayısı: "))
 elements = list()
@@ -16,27 +16,6 @@ maxRow , maxCol = result[0] , result[1]
 
 print(f"\n******* Matris *******\n{mat}")
 print(f"\nEn büyük: {maxElement}\nKonumu: {maxRow , maxCol}")
-
-
-print()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
