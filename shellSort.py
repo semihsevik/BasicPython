@@ -33,7 +33,3 @@ print(f'Girilen dizinin artan şekilde sıralanmış hali --> {data}')
 
 
 
-
-
-
-
