@@ -17,25 +17,5 @@ else:
     else:
         print(f"{number} is not a prime number.")
 
-sehirler = ["Ankara" , "İzmir" , "İstanbul" , "Kocaeli"]
 
-for sehir in sehirler:
-    #Tüm şehirleri yazdıralım.
-    print(sehir)
-
-"""number = int(input("Enter a number: "))
-flag = True
-
-for i in range(2, number):
-    if number % i == 0:
-        print(f"{number} is not a prime number.")
-        flag = False
-        break
-
-if flag:
-    print(f"{number} is a prime number.")"""
-
-
-
-
-
+        
