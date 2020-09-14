@@ -16,8 +16,3 @@ print(biggestDigit)
 
 
 
-
-
-
-
-    
