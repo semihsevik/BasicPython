@@ -9,7 +9,6 @@ def isHappyNumber(num):
         num = num//10; 
     return sum 
 
-print()
 while True:
     num = int(input("Sayı: "))
 
@@ -28,39 +27,6 @@ while True:
 
     else: 
         print(f"{num} is not a happy number.")
-
-
-
-
-
-print()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
