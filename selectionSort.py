@@ -19,11 +19,3 @@ print ("Sıralanmış Dizi:" , *arr)
 
 
 
-
-
-
-
-
-
-
-
