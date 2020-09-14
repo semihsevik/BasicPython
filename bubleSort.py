@@ -21,20 +21,3 @@ print ("Sorted array:" , sortedArr)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
