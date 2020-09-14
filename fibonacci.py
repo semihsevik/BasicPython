@@ -18,25 +18,3 @@ for num in fibonacci:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
