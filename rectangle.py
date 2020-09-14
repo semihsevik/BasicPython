@@ -22,11 +22,3 @@ for row in range(1 , shortEdge + 1):
 
 
     
-
-
-
-
-
-
-
-
