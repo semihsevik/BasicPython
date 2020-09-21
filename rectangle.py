@@ -13,7 +13,7 @@ for row in range(1 , shortEdge + 1):
             print("*" , end = " ")
             
         elif col == 1 or col == longEdge:
-            print("*" , end = " ")S
+            print("*" , end = " ")
         
         else: 
             print(" " , end = " ")
