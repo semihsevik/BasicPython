@@ -1,2 +1,2 @@
 # BasicPython
-Temel Python örnekleri
+Basic Python Examples
